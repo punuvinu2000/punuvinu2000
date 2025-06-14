@@ -66,15 +66,6 @@ I’m forging **secure networks** and **smart IoT systems** that anticipate and 
   <img src="https://github-profile-trophy.vercel.app/?username=punuvinu2000&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
 </p>
 
----
-
-## 🐍 Snake Game Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/punuvinu2000/punuvinu2000/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
@@ -93,31 +84,8 @@ I’m forging **secure networks** and **smart IoT systems** that anticipate and 
 
 ---
 
-## 🐍 Snake Animation Setup ⚙️
+## 🐍 Snake Game Contribution Graph
 
-**Don’t worry – keep everything you already posted; this is a friendly reminder.**
-
-1. Your repo must be named `punuvinu2000`.
-2. Add this **`.github/workflows/snake.yml`** file:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: punuvinu2000
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - name: Push changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Generate contribution snake animation"
-          add: "dist/github-contribution-grid-snake.svg"
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/punuvinu2000/punuvinu2000/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
