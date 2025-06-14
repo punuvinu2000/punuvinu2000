@@ -11,10 +11,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="hacker typing gif" />
 </p>
 
-<!-- 💾 Matrix-Style Falling Code Effect -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9Igx8AEyd8I5zIog/giphy.gif" width="600" alt="matrix effect" />
-</p>
+
 
 <!-- 🧠 Cyberpunk-Themed Badges -->
 <p align="center">
