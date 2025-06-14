@@ -1,33 +1,39 @@
 <h1 align="center">Hi 👋, I'm Punu 🧬</h1>
-<h3 align="center">🚀 Network Security Analyst • IoT Architect • Cyber Dreamer</h3>
+<h3 align="center">🚀 Network Security Analyst · IoT Architect · Cyber Dreamer</h3>
 
-<!-- 🌌 Cosmic hacker-light intro -->
+<!-- 🌌 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00FFDD&center=true&vCenter=true&width=550&lines=Rewriting+the+rules+of+network+security...;Mapping+the+IoT+universe...;Guarding+your+digital+realm...;Welcome+to+the+cyberfrontier..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=00FFDD&center=true&vCenter=true&width=600&lines=Rewriting+the+rules+of+network+security...;Mapping+the+IoT+universe...;Guarding+your+digital+realm...;Welcome+to+the+cyberfrontier..." alt="Typing SVG" />
 </p>
 
-<!-- 🌩️ Hacker coding terminal aesthetic -->
+<!-- 🌩️ Hacker Terminal Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="hacker typing gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="hacker typing gif" />
 </p>
 
-<!-- 🧠 Tech-badges with cyberpunk energy -->
+<!-- 💾 Matrix-Style Falling Code Effect -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9Igx8AEyd8I5zIog/giphy.gif" width="600" alt="matrix effect" />
+</p>
+
+<!-- 🧠 Cyberpunk-Themed Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Cyberpunk-Cyber+Samurai-%23ff0055?style=for-the-badge&logo=cyberpunk&logoColor=black" />
   <img src="https://img.shields.io/badge/IoT+Architect-%23ffcc00?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Network+Guardian-%2300eeff?style=for-the-badge&logo=fortinet&logoColor=black" />
 </p>
 
-<!-- 👁 Profile-view counter -->
+<!-- 🧬 Profile view counter with glitch effect -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=punuvinu2000&label=Profile+views&color=0e75b6&style=flat" alt="punuvinu2000" />
+  <img src="https://komarev.com/ghpvc/?username=punuvinu2000&label=Profile+views&color=00FFDD&style=flat" alt="punuvinu2000" />
 </p>
 
 ---
 
 ## 🌱 About Me
 
-In every packet I inspect and every sensor I deploy, I see **stories**, **patterns**, and **possibilities**—not just data. I’m designing **secure pathways in our digital future**, weaving **IoT networks that learn and adapt**, and exploring **cybernetics of tomorrow**.
+In *every packet* I inspect and *every sensor* I deploy, I seek the **spark of life in digital chaos**.  
+I’m forging **secure networks** and **smart IoT systems** that anticipate and adapt—guardians of tomorrow’s cyber-realm.
 
 ---
 
@@ -83,14 +89,16 @@ In every packet I inspect and every sensor I deploy, I see **stories**, **patter
 
 ---
 
-> **“In every bit of chaos there is a spark of order.”** 🧬
+> **“We code in order to make sense of data’s chaos; we secure to breathe life into possibility.”**
 
 ---
 
-## 🐍 Snake Animation Setup Reminder
+## 🐍 Snake Animation Setup ⚙️
 
-1. **Repo name** must be `punuvinu2000`.
-2. **Insert** this into `.github/workflows/snake.yml`:
+**Don’t worry – keep everything you already posted; this is a friendly reminder.**
+
+1. Your repo must be named `punuvinu2000`.
+2. Add this **`.github/workflows/snake.yml`** file:
 
 ```yaml
 name: Generate Snake Animation
@@ -112,3 +120,4 @@ jobs:
         with:
           message: "Generate contribution snake animation"
           add: "dist/github-contribution-grid-snake.svg"
+```
