@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Punu </h1>
 <h3 align="center">🚀 Passionate Network Security Analyst & IoT Expert | 🌐 Exploring the Digital World</h3>
 
+<!-- 🧠 Hacker-style code typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFEA&center=true&vCenter=true&width=500&lines=Initializing+Profile...;Authenticating+user%3A+Punu;Access+Granted+✔;Building+Secure+Networks...;Exploring+IoT+Universe..." alt="Typing SVG" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=punuvinu2000&label=Profile%20views&color=0e75b6&style=flat" alt="punuvinu2000" />
 </p>
+
 
 ---
 
