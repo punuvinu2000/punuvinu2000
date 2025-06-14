@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
-  workflow_dispatch:      # Allow manual trigger from GitHub UI
+    - cron: "0 0 * * *"  # Every midnight
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -14,8 +14,7 @@ jobs:
           github_user_name: punuvinu2000
           outputs: |
             dist/github-contribution-grid-snake.svg
-
-      - name: Push the changes
+      - name: Push changes
         uses: EndBug/add-and-commit@v9
         with:
           message: "Generate contribution snake animation"
