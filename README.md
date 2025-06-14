@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 Passionate [Your Role] | 🌐 Exploring the Digital World</h3>
+<h1 align="center">Hi 👋, I'm Punu </h1>
+<h3 align="center">🚀 Passionate network security analysis & IoT expert | 🌐 Exploring the Digital World</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=punuvinu2000&label=Profile%20views&color=0e75b6&style=flat" alt="punuvinu2000" />
@@ -7,10 +7,10 @@
 
 ---
 
-- 🌱 I’m currently learning **OOP with Java**
-- 🎓 Undergraduate at **[Your University Name]**
-- 💬 Ask me about **Web Development | IoC | App Development**
-- 📫 How to reach me: **your.email@example.com**
+- 🌱 I’m currently learning **OOP with Python**
+- 🎓 Undergraduate at **South Eastern University of Sri Lanka**
+- 💬 Ask me about **Web Development | IoT | App Development**
+- 📫 How to reach me: **punuvinura2000@gmail.com**
 - 😄 Fun fact: **I love to turn ideas into real projects!**
 
 ---
